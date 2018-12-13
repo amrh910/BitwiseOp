@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+Ebitwise
+Z0 w1507148191
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code
+Z6 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwiseop_CSC343_fall2017.vhd
+Z7 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwiseop_CSC343_fall2017.vhd
+l0
+L6
+Vdim80h8b[^GcO;77nL3IW2
+!s100 ZICbS?Yb;4XlCdJ6@hZGh0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1507927574
+!i10b 1
+Z10 !s108 1507927574.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwiseop_CSC343_fall2017.vhd|
+Z12 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwiseop_CSC343_fall2017.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+R4
+DEx4 work 7 bitwise 0 22 dim80h8b[^GcO;77nL3IW2
+l16
+L15
+V[FFiMMY?=95Je5TIlJcYz2
+!s100 YMLLTdo5zKj[A8He;aZFb2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etest_bitwise
+Z15 w1507929338
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwise_TESTBENCH_CSC343_fall2017.vhd
+Z17 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwise_TESTBENCH_CSC343_fall2017.vhd
+l0
+L6
+V6iAM50gZ44cLY]^64z;Co2
+!s100 B:IPDT>J>C^aBEj::=12h3
+R8
+32
+Z18 !s110 1507929349
+!i10b 1
+Z19 !s108 1507929349.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwise_TESTBENCH_CSC343_fall2017.vhd|
+Z21 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_BitwiseOperation_Fall2017/HAMMAM_Bitwise_code/Hammam_bitwise_TESTBENCH_CSC343_fall2017.vhd|
+!i113 1
+R13
+R14
+Aarch_test
+R1
+R2
+R3
+R4
+Z22 DEx4 work 12 test_bitwise 0 22 6iAM50gZ44cLY]^64z;Co2
+l24
+L9
+V=Wc2HXjK:8cX6>2Tz:mUL2
+!s100 G<PenKje>mB_m[M<XQo9z1
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
